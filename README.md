@@ -19,5 +19,6 @@ dist/    模板zip文件目录
 `example`
 
 ```
-http://design.yyuap.com/templates/website/cooperating/index.html
+预览地址：http://design.yyuap.com/templates/website/cooperating/index.html
+下载地址：http://design.yyuap.com/templates/dist/cooperating.zip
 ```
