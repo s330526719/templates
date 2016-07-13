@@ -11,7 +11,7 @@
 }
 
 .u-checkbox.is-checked .u-checkbox-tick-outline {
-	background: url(images/checkH.png);
+	background: url(images/checkO.png);
 }
 
 .u-checkbox.is-checked .u-checkbox-outline {
@@ -19,7 +19,7 @@
 }
 
 .u-checkbox .u-checkbox-tick-outline {
-	background: url(images/checkO.png);
+	background: url(images/checkH.png);
 }
 
 .u-checkbox-tick-outline {
